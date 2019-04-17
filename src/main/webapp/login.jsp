@@ -5,6 +5,8 @@
     账户：<input type="text" name="username"><br/>
     密码：<input type="text" name="password"><br/>
     <input type="submit" value="登陆">
+    <input type="submit" value="很纠结">
+dhhhh
 </form>
 </body>
 </html>
