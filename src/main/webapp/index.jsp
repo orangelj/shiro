@@ -10,7 +10,5 @@
     您还未<a href="login.jsp">登陆</a>，登陆之后浏览更多精彩内容！
 </shiro:notAuthenticated>
 
-
-
 </body>
 </html>
