@@ -14,7 +14,7 @@ import java.util.Map;
 
 @Configuration
 public class ShiroConf {
-
+   
 
     @Bean
     public ShiroFilterFactoryBean getShiroFilterFactoryBean(SecurityManager securityManager){
